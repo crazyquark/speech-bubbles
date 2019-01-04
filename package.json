@@ -1,0 +1,19 @@
+{
+  "name": "speech-bubbles",
+  "version": "1.0.0",
+  "description": "Speech Bubbles using Canvas",
+  "main": "SpeechBubble.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crazyquark/speech-bubbles.git"
+  },
+  "author": "Sunmock Yang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crazyquark/speech-bubbles/issues"
+  },
+  "homepage": "https://github.com/crazyquark/speech-bubbles#readme"
+}
